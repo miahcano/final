@@ -4,7 +4,7 @@ import random
 pygame.init()
 
 win = pygame.display.set_mode((800, 400))
-pygame.display.set_caption("Pink Mushroom Jump")
+pygame.display.set_caption("Mushroom Jump")
 
 clock = pygame.time.Clock()
 FPS = 60
